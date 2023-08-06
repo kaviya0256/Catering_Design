@@ -1,0 +1,142 @@
+.catering{
+    display: flex;
+    margin-bottom: 30px;
+    position: fixed;
+    padding: 10px.10px;
+    
+    
+
+}
+.catering-list{
+    display: flex;
+    margin-top: none;
+   
+}
+.right-content{
+    margin-left: 900px;    
+}
+body a{
+    margin-left: 40px;
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+    font-size: 20px;
+}
+body a:hover{
+    color:cadetblue;
+}
+.img1{
+    margin-bottom: 40px;
+}
+.img2{
+    display: flex;
+    margin-bottom: 80px;
+
+}
+.img2-title{
+    font-size: larger;
+    font-weight: bolder;
+    font-size: 30px;
+    margin-bottom: 30px;
+    margin-left:300px;
+
+}
+.img2-since{
+    margin-left: 300px;
+    margin-bottom: 50px;
+    font-size: 25px;
+    font-weight: bolder;
+}
+.img2-descrb1{
+    font-size: 17px;
+    font-weight: bolder;
+    margin-bottom: 30px;
+    margin-left:60px ;
+    margin-right: 80px;
+    justify-content: center;
+    
+
+}
+.img2-descrb2{
+    font-size: 15px;
+   
+    margin-bottom: 30px;
+    margin-left:60px ;
+    margin-right: 80px;
+    justify-content: center;
+
+}
+body span{  
+    background-color:aquamarine;
+
+}
+.overmenu{
+    justify-content: center!important;
+    margin-left: 180px;
+
+}
+.menu-title1{
+    font-size: 20px;
+    margin-bottom: 30px;
+    margin-left: 90px;
+}
+.menu-title_descrb1{
+    font-size: 15px;
+    margin-left: 90px;
+    margin-bottom: 50px;
+}
+.catering{
+    color: #000!important;
+    background-color: #fff!important;
+    padding: 15px 16px!important;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);  
+}
+.full-overmenu{
+    display: flex;
+}
+.img2{
+    margin-left: 100px;
+}
+.full-overmenu{
+    margin-bottom: 60px;
+   
+}
+.contact{
+    font-size: 30px;
+    margin-bottom: 30px;
+    font-weight: bolder;
+}
+.fully-contact{
+    margin-left: 90px;
+    margin-bottom: 30px;
+}
+.contact-describ{
+    margin-bottom: 30px;
+
+}
+.newyork{
+    color: #607d8b!important;
+    font-size: bolder;
+    margin-bottom: 30px;
+}
+.input-fileds{
+    padding-top: 16px!important;
+    padding-bottom: 16px!important;
+    width: 80%;
+    border: none;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 30px;
+}
+.email-contact{
+    margin-bottom: 30px;
+}
+.msg-button{
+    background-color: #607d8b;
+    cursor: pointer;
+    margin-left: 90px;
+    border: none;
+    padding: 8px 16px;
+    overflow: hidden;
+    color: inherit;
+    color: #000!important;
+}
